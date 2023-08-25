@@ -6,6 +6,7 @@ git status
 git add
 git commit
 git push
+git push --set-upstream origin develop (for pushing a branch)
 
 git branch (list existing branches)
 git branch -d (delete branch; cannot delete branch while on it)
