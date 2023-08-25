@@ -8,4 +8,5 @@ git commit
 git push
 
 git branch (list existing branches)
+git branch -d (delete branch; cannot delete branch while on it)
 git checkout -b (create and move to new branch)
